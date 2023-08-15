@@ -1,77 +1,32 @@
-<h1>🥳🥳🎈🍫🚗🛸✈🎽🎯💰 Kathan Adalaja</h1>
-<br /> 
+<h1 align="center">Hi 👋, I'm Kathan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-                    
-`**Digital Craftsman (Developer / Programmer)**`
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kathan0611&label=Profile%20views&color=0e75b6&style=flat" alt="kathan0611" /> </p>
 
-                    
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kathan0611" alt="kathan0611" /></a> </p>
 
-<p align="left"> I am more passionate to develop the software </p>
-<p align="left"> 
-  <a href="https://github.com/Kathan0611?tab=repositories&sort=stargazers#gh-light-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kathan0611?color=3ea97d&style=for-the-badge&labelColor=40b682&logo=star#gh-light-mode-only"/></a>
-  
-  <a href="https://github.com/Kathan0611?tab=repositories&sort=stargazers#gh-dark-mode-only">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Kathan0611?color=655489&style=for-the-badge&labelColor=c691e9&logo=star#gh-dark-mode-only"/></a>
-  
-  <a href="https://github.com/Kathan0611?tab=followers#gh-light-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kathan0611?color=2c4954&labelColor=2c3e50&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-light-mode-only"/></a>
-    
-  <a href="https://github.com/Kathan0611?tab=followers#gh-dark-mode-only">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Kathan0611?color=dacc84&labelColor=f9e692&style=for-the-badge&logo=person-add&label=Follow&logoColor=white#gh-dark-mode-only"/></a>
-</p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/adalajakathan83" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/adalajakathan83?logo=twitter&style=for-the-badge" alt="https://twitter.com/adalajakathan83" /></a> </p>
 
----
-<br />
+- 🔭 I’m currently working on [react-news](https://github.com/Kathan0611/react-news)
 
-                    
+- 🌱 I’m currently learning **nodejs ,react js,express js**
 
-<h2>Languages and Tools</h2> 
+- 💬 Ask me about **React js**
+
+- 📫 How to reach me **adalajakathan06@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img width="280px"  src="https://skillicons.dev/icons?i=Js,React Js,Web development &perline=9"  />
-</p>
-<br />
-
-                    
-
-<p><a href="https://github.com/Kathan0611#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathan0611&langs_count=6&show_icon=true&layout=compact&theme=nightowl#gh-dark-mode-only" alt="Kathan0611" /></a>
-  <a href="https://github.com/Kathan0611#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathan0611&langs_count=6&show_icon=true&layout=compact&theme=vue#gh-light-mode-only" alt="Kathan0611" /></a>
+<a href="https://twitter.com/https://twitter.com/adalajakathan83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/adalajakathan83" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kathan-adalaja-550482245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kathan-adalaja-550482245" height="30" width="40" /></a>
+<a href="https://instagram.com/https://instagram.com/kathan_0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/kathan_0611" height="30" width="40" /></a>
 </p>
 
-<br />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<a href="https://github.com/Kathan0611#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kathan0611&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Kathan0611" /></a>
-<a href="https://github.com/Kathan0611#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kathan0611&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Kathan0611" /></a>
-</p> 
-<br>
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kathan0611&show_icons=true&locale=en&layout=compact" alt="kathan0611" /></p>
 
-<p><a href="https://github.com/Kathan0611#gh-dark-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Kathan0611&theme=nightowl#gh-dark-mode-only" alt="Kathan0611"/></a>
-<a href="https://github.com/Kathan0611#gh-light-mode-only" target="_blank"><img align="center" src="https://streak-stats.demolab.com?user=Kathan0611&theme=vue#gh-light-mode-only" alt="Kathan0611"/></a></p>
-<br/>
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kathan0611&show_icons=true&locale=en" alt="kathan0611" /></p>
 
-<p><a href="https://github.com/Kathan0611#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kathan0611&theme=nightowl#gh-dark-mode-only" alt="Kathan0611" /></a>
-<a href="https://github.com/Kathan0611#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kathan0611&theme=vue#gh-light-mode-only" alt="Kathan0611" /></a></p>
-<br/>
-
----
-
-
-                    
-
-<h2>My Latest Project</h2> 
-<br />
-<p><a href="https://github.com/Kathan0611/react-news#gh-dark-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kathan0611&repo=react-news&theme=nightowl&show_owner=true#gh-dark-mode-only"/></a></p>
-<p><a href="https://github.com/Kathan0611/react-news#gh-light-mode-only" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kathan0611&repo=react-news&theme=vue&show_owner=true#gh-light-mode-only"/></a></p>
-<br />
-
-
-                    
-
-<h2>Connect With Me</h2> 
-<p align="left">
-<a href="https://twitter.com/adalajakathan83" target="_blank"><img align="left" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adalajakathan83" /></a>
-<a href="https://instagram.com/kathan_0611" target="_blank"><img align="left" width="30px" style="padding-right:10px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kathan_0611" /></a>
-<a href="https://www.linkedin.com/in/kathan-adalaja-550482245" target="_blank"><img align="left" alt="linkedin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kathan0611&" alt="kathan0611" /></p>
