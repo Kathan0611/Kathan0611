@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Ecommernce website(MERN)](https://github.com/Kathan0611/react-news)
 
-- 🌱 I’m currently learning **nodejs ,react js,express js**
+- 🌱 I’m currently Expolering **nodejs ,react js,express js**
 
 - 💬 Ask me about **React js**
 
