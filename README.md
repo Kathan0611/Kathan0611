@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/adalajakathan83" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/adalajakathan83?logo=twitter&style=for-the-badge" alt="https://twitter.com/adalajakathan83" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommernce website(MERN)](https://github.com/Kathan0611/react-news)
+- 🔭 I’m currently working on [Ecommernce website(MERN)](https://github.com/Kathan0611/Ecommernce-website)
 
 - 🌱 I’m currently Expolering **nodejs ,react js,express js**
 
